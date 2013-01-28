@@ -1,6 +1,7 @@
 var config = {
   tabData: {
     tab1: [
+      "EOIN CROSBIE",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat sem, tristique dignissim facilisis sit amet, congue ac sem. Ut nec consectetur neque. Ut sit amet dui leo. Aliquam elementum posuere tempus. Sed et mi elit, sed ultricies leo. Ut non nisi orci, sit amet sagittis justo. Mauris rutrum dignissim lacus, eu mollis sem facilisis in. Curabitur sit amet est ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sit amet accumsan arcu."],
     tab2: [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat sem, tristique dignissim facilisis sit amet, congue ac sem. Ut nec consectetur neque. Ut sit amet dui leo. Aliquam elementum posuere tempus. Sed et mi elit, sed ultricies leo. Ut non nisi orci, sit amet sagittis justo. Mauris rutrum dignissim lacus, eu mollis sem facilisis in. Curabitur sit amet est ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sit amet accumsan arcu."],
