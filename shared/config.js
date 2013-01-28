@@ -1,15 +1,9 @@
 var config = {
   tabData: {
     tab1: [
-      'Eoin Crosbie',
-      '09-01-90',
-      'eoincrosbie@hotmail.com',
-      '086 1515933',
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat sem, tristique dignissim facilisis sit amet, congue ac sem. Ut nec consectetur neque. Ut sit amet dui leo. Aliquam elementum posuere tempus. Sed et mi elit, sed ultricies leo. Ut non nisi orci, sit amet sagittis justo. Mauris rutrum dignissim lacus, eu mollis sem facilisis in. Curabitur sit amet est ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sit amet accumsan arcu."],
     tab2: [
-      'Primary',
-      'Secondary',
-      'Third Level - WIT BSc Applied Computing' ],
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat sem, tristique dignissim facilisis sit amet, congue ac sem. Ut nec consectetur neque. Ut sit amet dui leo. Aliquam elementum posuere tempus. Sed et mi elit, sed ultricies leo. Ut non nisi orci, sit amet sagittis justo. Mauris rutrum dignissim lacus, eu mollis sem facilisis in. Curabitur sit amet est ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sit amet accumsan arcu."],
     tab3: [
       'The extra packages contain an override prefs.js which positions the tabs at different areas on screen.',
       'The iOS and Android packages contain different UI themes - which consist of some different css and different images.',
